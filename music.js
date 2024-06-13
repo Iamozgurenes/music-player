@@ -13,6 +13,7 @@ class Music {
 
 const musicList = [
     new Music("Hayyam", "Siyasiyabend", "siyasiyabend.jpg", "hayyam.mp3"),
+    new Music("İstersen Hiç Başlamasın", "Gaye Su Akyol", "gayesuakyol.jpg", "istersenhicbaslamazsin.mp3"),
     new Music("Sen Bilmezsin", "Dedublüman", "dedubluman.jpg", "SenBilmezsin.mp3"),
     new Music("Can Evimden Vurdun", "Siyasiyabend", "siyasiyabend2.jpg", "canevimdenvurdun.mp3"),
     new Music("Siren Sesi", "Talha Yıldırır", "talhayildirir.jpg", "sirensesi.mp3"),
